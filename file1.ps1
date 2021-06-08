@@ -1,3 +1,3 @@
 echo "I am devops Engineer"
-ls -lart
+ls -lart >>file2.txt
 
