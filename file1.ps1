@@ -1,1 +1,1 @@
-echo "This is deekshitha. I am a devops Engineer"
+Write-Host "I am devops Engineer"
